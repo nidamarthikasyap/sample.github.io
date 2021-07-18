@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <head>
 	<meta charset="utf-8">
-	<title>create a table</title>
 </head>
 <body>
 	<main>Books in a shop</main>
